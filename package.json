@@ -1,0 +1,13 @@
+{
+  "name": "cognito-token-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hassam Siddiqui",
+  "license": "MIT",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^6.3.12"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
